@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.motorpext.ro/sitemap.xml
